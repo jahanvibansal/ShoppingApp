@@ -1,7 +1,7 @@
 version: 0.2
 env:
   variables:
-    spring.profiles.active=prod
+    spring.profiles.active: prod
 phases:
   install:
     runtime-versions:
